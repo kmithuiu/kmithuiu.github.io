@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-<!-- <p style="text-align:justify; color:black; font-family:Georgia"> Greetings!!</p> -->
+<p style="text-align:justify; color:black; font-family:Georgia"> Greetings!!</p>
 
 
 <p style="text-align:justify; color:black; font-family:Georgia">Hello, I am <b>Kamruzzaman Mithu</b> from Bangladesh, a land of vibrant culture, rich heritage, and breathtaking natural beauty nestled in South Asia. My country may be small in size, but it shines brightly with its timeless charm, warm-hearted people, and remarkable resilience. </p>
