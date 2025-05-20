@@ -24,5 +24,6 @@ Duration: 01 May, 2016 - 01 June, 2020<br/>
 <!-- CGPA: <b> </b>/4.00 scale <br/> -->
 Academic Advisor: <a style="color:brown;" href="https://cse.bu.edu.bd/faculty/65c6685d59b4a9cc07a53eea">Associate Prof. Md. Sadiq Iqbal</a><br/>
 Thesis Supervisor: <a style="color:brown;" href="https://hasibaust13.github.io/">Khan Md Hasib</a><br/>
+
 </span>
 
