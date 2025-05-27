@@ -23,7 +23,7 @@ Thesis Supervisor: <a style="color:brown;" href="https://cse.uiu.ac.bd/faculty/m
 <!-- Duration: 01 November 2021 - Present<br/> -->
 <!-- CGPA: <b> </b>/4.00 scale <br/> -->
 <!-- Academic Advisor: <a style="color:brown;" href="https://www.uiu.ac.bd/"></a><br/> -->
-<a style="color:brown;" href="https://www.iba-du.edu/localhost/iba/index.php/page/view/375.html">The Advanced Certificate for Management Professionals from IBA, University of Dhaka, equips IT/ITES professionals with managerial, strategic, and technical skills to lead digital transformation. It covers leadership, project management, business strategy, analytics, and more.</a><br/>
+<a style="color:brown;" href="https://www.iba-du.edu/localhost/iba/index.php/page/view/375.html">Management Development Program (MDP) from IBA, University of Dhaka, equips IT/ITES professionals with managerial, strategic, and technical skills to lead digital transformation. It covers leadership, project management, business strategy, analytics, and more.</a><br/>
 </span>
 <br/>
 
