@@ -38,5 +38,5 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/kmithuiu/).
 <br/>
  -->
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233668.06397580312!2d90.25487306039312!3d23.780753026877857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8b087026b81%3A0x8fa563bbdd5904c2!2sDhaka!5e0!3m2!1sen!2sbd!4v1747479190844!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14609.802274626209!2d90.38572298569706!3d23.731306958930414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8e9a09d3565%3A0x5cfe6b47f59cb10b!2z4Kai4Ka-4KaV4Ka-IOCmrOCmv-CmtuCnjeCmrOCmrOCmv-CmpuCnjeCmr-CmvuCmsuCnnyDgppXgp43gpq_gpr7gpq7gp43gpqrgpr7gprgsIOCmouCmvuCmleCmvg!5e0!3m2!1sbn!2sbd!4v1748339424459!5m2!1sbn!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
