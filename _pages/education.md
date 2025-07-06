@@ -28,6 +28,7 @@ Thesis Supervisor: <a style="color:brown;" href="https://cse.uiu.ac.bd/faculty/m
 <br/>
 
 <!-- B.Sc -->
+<!--
 <img src="/images/bu_logo.png" style="float:left;width:140px;height:140px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">B.Sc. in Computer Science and Engineering</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://bu.edu.bd/" target="_blank" style="color:black;">Bangladesh University, Bangladesh</a></b></span><br/>
 Duration: 01 May, 2016 - 01 June, 2020<br/>
@@ -37,4 +38,4 @@ Thesis Supervisor: <a style="color:brown;" href="https://hasibaust13.github.io/"
 </span>
 <br/>
 <br/>
-
+-->
