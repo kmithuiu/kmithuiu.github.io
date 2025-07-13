@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-* <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Merit-Based Scholarship</span>, United International University (2021, 2022, 2023). <sub><a href="https://www.uiu.ac.bd/admission/tuition-fees-payment-policies/scholarship-tuition-fee-and-other-fees-waiver-policy/" target="_blank" style="color:black;">Ref</a></sub> <br/></span> 
+* <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Merit-Based Scholarship</span>, United International University (2021 & 2022). <sub><a href="https://www.uiu.ac.bd/admission/tuition-fees-payment-policies/scholarship-tuition-fee-and-other-fees-waiver-policy/" target="_blank" style="color:black;">Ref</a></sub> <br/></span> 
 <!-- # Language Certification * <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Merit-Based Scholarship</span>, Bangladesh University (2016, 2017, 2018, 2019). <sub><a href="https://bu.edu.bd/course-tuition-fees/" target="_blank" style="color:black;">Ref</a></sub><br/></span> -->
 
 
