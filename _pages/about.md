@@ -24,6 +24,9 @@ redirect_from:
 
 # Recent News
 <!-- * <span style="font-family:Georgia; color:black"><span style="color:Blue">[January 2025]</span> - Started my <b>PhD program</b> at the school of Systems and Computing, <a href="https://www.unsw.edu.au/canberra" target="_blank" style="color:#364850;font-weight:bold">The University of New South Wales</a>, Canberra, ACT 2600, Australia. -->
+* <span style="font-family:Georgia; color:black"><span style="color:Blue">[October 2025]</span> - Completed my 
+ <b>Research Methodology and Biostatistics</b> at the Ibn Sina Medical College, Dhaka.
+
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[September 2025]</span> - Completed my 
  <b>Management Development Program (MDP)</b> at the Institute of Business Administration (IBA), University of Dhaka.
 
