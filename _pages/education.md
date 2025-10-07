@@ -27,7 +27,7 @@ Thesis Supervisor: <a style="color:brown;" href="https://cse.uiu.ac.bd/faculty/m
 <br/>
 
 <!-- IBA, DU -->
-<img src="/images/iba_du.png" style="float:left;width:140px;height:140px;"><span style="font-family:Georgia; color:black;"></br><span style="font-size:18pt">Management Development Program (MDP)</span><br/>
+<img src="/images/iba_du.png" style="float:left;width:140px;height:140px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Management Development Program (MDP)</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.iba-du.edu/localhost/iba/index.html" target="_blank" style="color:black;">Institute of Business Administration, University of Dhaka</a></b></span><br/>
 <!-- Duration: 01 November 2021 - Present<br/> -->
 <!-- CGPA: <b> </b>/4.00 scale <br/> -->
