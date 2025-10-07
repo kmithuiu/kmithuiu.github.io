@@ -13,7 +13,7 @@ author_profile: true
 <!-- CGPA: <b> </b>/4.00 scale <br/> -->
 <!-- Academic Advisor: <a style="color:brown;" href="https://www.uiu.ac.bd/"></a><br/> -->
 
-</span>
+
 <br/>
 
 <!-- M.Sc -->
