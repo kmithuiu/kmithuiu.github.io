@@ -9,11 +9,8 @@ author_profile: true
 <!-- YC Startup School -->
 <img src="/images/YC_Startup_School.jpg" style="float:left;width:140px;height:140px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Entrepreneurship / Entrepreneurial Studies</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.ycombinator.com/" target="_blank" style="color:black;">Y Combinator Startup School, SF, CA, USA</a></b></span><br/>
-<!-- Duration: Spring 2025<br/> -->
-<!-- CGPA: <b> </b>/4.00 scale <br/> -->
-<!-- Academic Advisor: <a style="color:brown;" href="https://www.uiu.ac.bd/"></a><br/> -->
-
-
+Duration: Spring 2025<br/> 
+</span>
 <br/>
 
 <!-- M.Sc -->
