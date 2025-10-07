@@ -17,18 +17,18 @@ Duration: Aug 2024 - Sep 2025
 
 <img src="/images/entertech_bd_logo.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt"><a href="https://entertechbd.com/" target="_blank" style="color:black;">Software Engineering</a></span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://entertechbd.com/" target="_blank" style="color:black;">ENTERTECH, Bangladesh</a></b></span><br/>
-Duration: Jun 2022 - Jul 2024
+Duration: Jun 2020 - Jul 2024
 </span>
 
 <br/>
 
-<img src="/images/infosystem_technology_limited_logo.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt"><a href="https://infosystemltd.com/" target="_blank" style="color:black;">
-Software Quality Engineering</a></span><br/>
-<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://infosystemltd.com/" target="_blank" style="color:black;">Infosystem Technology Limited, Bangladesh</a></b></span><br/>
-Duration: Jun 2020 - May 2022
-</span>
+<!-- <img src="/images/infosystem_technology_limited_logo.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt"><a href="https://infosystemltd.com/" target="_blank" style="color:black;"> -->
+<!-- Software Quality Engineering</a></span><br/> -->
+<!-- <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://infosystemltd.com/" target="_blank" style="color:black;">Infosystem Technology Limited, Bangladesh</a></b></span><br/> -->
+<!-- Duration: Jun 2020 - May 2022 -->
+ <!-- </span> <br/> -->
 
-<br/>
+
 
 <img src="/images/tv_logo.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt"><a href="https://maps.app.goo.gl/pM5b1jjs4MmNnuNH9" target="_blank" style="color:black;"> Software Engineer Internship </a></span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://maps.app.goo.gl/pM5b1jjs4MmNnuNH9" target="_blank" style="color:black;">Techvision Ltd, Bangladesh</a></b></span><br/>
