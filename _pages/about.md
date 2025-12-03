@@ -34,4 +34,4 @@ redirect_from:
 * <span style="font-family:Georgia; color:black"><span style="color:Blue">[Spring 2025]</span> - Completed my 
  <b>Entrepreneurial Studies </b> at the Y Combinator Startup School, SF, CA, USA.
 
-* <span style="font-family:Georgia; color:black"><span style="color:Blue">[July 2025]</span> - Reached <b>56</b> citations on my Google Scholar profile!!
+* <span style="font-family:Georgia; color:black"><span style="color:Blue">[December 2025]</span> - Reached <b>60</b> citations on my Google Scholar profile!!
