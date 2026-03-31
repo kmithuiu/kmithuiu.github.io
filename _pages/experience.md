@@ -8,6 +8,19 @@ author_profile: true
 # Work Experience
 
 ## Current
+<img src="/images/pgt.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt"><a href="http://www.pigeneration.co/" target="_blank" style="color:black;">AI Engineer</a></span><br/>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="http://www.pigeneration.co/" target="_blank" style="color:black;">Pigeneration Technologies</a></b></span><br/>
+Duration: Apr 2026 - Present
+</span>
+
+<br/>
+<img src="/images/era.jpg" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt"><a href="https://publishing.emanresearch.org/" target="_blank" style="color:black;">Editor at Journal of Data Modeling</a></span><br/>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://publishing.emanresearch.org/" target="_blank" style="color:black;">Eman Research Publishing LLC, USA</a></b></span><br/>
+Duration: Oct 2025 - Present
+</span>
+
+<br/>
+
 <img src="/images/cmed_logo.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt"><a href="https://cmed.com.bd/" target="_blank" style="color:black;">AI Engineer (DS)</a></span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://cmed.com.bd/" target="_blank" style="color:black;">CMED Health Ltd, Bangladesh</a></b></span><br/>
 Duration: Aug 2024 - Sep 2025
