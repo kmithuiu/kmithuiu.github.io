@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "kmithu_uiu.png" # Open Graph/Twitter default site image
+og_image                 : "kmithu.jfif" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kamruzzaman Mithu"
   avatar           : "kmithu_uiu.png"
-  bio              : "AI Engineer || Co-Founder || Health Informatics || NLP, CV, Deep Learning, LLMs"
+  bio              : "AI Engineer || CS Researcher || Health Informatics || NLP, CV, Deep Learning, LLMs"
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term="
